@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="448.102" viewBox="0 0 1140 448.102">
+  <g id="Grupo_8650" data-name="Grupo 8650" transform="translate(-390 -4423)">
+    <g id="Rectángulo_2055" data-name="Rectángulo 2055" transform="translate(390 4457)" fill="#fff" stroke="#5f3bbf" stroke-width="1">
+      <path d="M17,0H1123a17,17,0,0,1,17,17V414a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V17A17,17,0,0,1,17,0Z" stroke="none"/>
+      <path d="M17,.5H1123A16.5,16.5,0,0,1,1139.5,17V413a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V17A16.5,16.5,0,0,1,17,.5Z" fill="none"/>
+    </g>
+    <path id="Trazado_13948" data-name="Trazado 13948" d="M5744-119.656H6884" transform="translate(-5354 4718)" fill="none" stroke="#5f3bbf" stroke-width="1"/>
+    <rect id="Rectángulo_2056" data-name="Rectángulo 2056" width="1140" height="92" rx="7" transform="translate(390 4423)" fill="#a793de"/>
+    <text id="TAMAÑO" transform="translate(557 4475)" fill="#fff" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-48.195" y="0">TAMAÑO</tspan></text>
+    <text id="ACTIVOS_TOTALES" data-name="ACTIVOS TOTALES" transform="translate(892 4475)" fill="#fff" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-94.762" y="0">ACTIVOS TOTALES</tspan></text>
+    <text id="PLANTA_DE_PERSONAL" data-name="PLANTA DE PERSONAL" transform="translate(1344 4475)" fill="#fff" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-118.535" y="0">PLANTA DE PERSONAL</tspan></text>
+    <text id="Micro_empresa" data-name="Micro empresa" transform="translate(589 4562)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-79.508" y="0">Micro empresa</tspan></text>
+    <path id="Trazado_17750" data-name="Trazado 17750" d="M5744-119.656H6884" transform="translate(-5354 4809)" fill="none" stroke="#5f3bbf" stroke-width="1"/>
+    <text id="Pequeña" transform="translate(557 4653)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-46.643" y="0">Pequeña</tspan></text>
+    <path id="Trazado_17751" data-name="Trazado 17751" d="M5744-119.656H6884" transform="translate(-5354 4900)" fill="none" stroke="#5f3bbf" stroke-width="1"/>
+    <text id="Mediana" transform="translate(556 4744)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-46.154" y="0">Mediana</tspan></text>
+    <text id="Grande" transform="translate(549 4835)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-39.284" y="0">Grande</tspan></text>
+    <text id="Hasta_500" data-name="Hasta 500" transform="translate(851 4562)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-52.395" y="0">Hasta 500</tspan></text>
+    <text id="Superior_a_500_y_hasta_5.000" data-name="Superior a 500 y  hasta 5.000" transform="translate(950 4653)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-151.314" y="0" xml:space="preserve">Superior a 500 y  hasta 5.000</tspan></text>
+    <text id="Superior_a_5000_y_hasta_30.000" data-name="Superior a 5000 y hasta 30.000" transform="translate(960 4744)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-161.015" y="0">Superior a 5000 y hasta 30.000</tspan></text>
+    <text id="Superior_a_30.000_" data-name="Superior a 30.000 " transform="translate(894 4835)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-94.864" y="0">Superior a 30.000 </tspan></text>
+    <text id="Hasta_10_empleados" data-name="Hasta 10 empleados" transform="translate(1333 4562)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-107.395" y="0">Hasta 10 empleados</tspan></text>
+    <text id="Entre_11_y_50" data-name="Entre 11 y 50" transform="translate(1294 4653)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-68.111" y="0">Entre 11 y 50</tspan></text>
+    <text id="Entre_51_y_200" data-name="Entre 51 y 200" transform="translate(1300 4744)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-74.39" y="0">Entre 51 y 200</tspan></text>
+    <text id="Más_de_200" data-name="Más de 200" transform="translate(1286 4835)" fill="#5f3bbf" font-size="22" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-59.63" y="0">Más de 200</tspan></text>
+    <path id="Trazado_17752" data-name="Trazado 17752" d="M2115.465,3243v448.1" transform="translate(-1374 1180)" fill="none" stroke="#5f3bbf" stroke-width="1"/>
+    <path id="Trazado_17753" data-name="Trazado 17753" d="M2115.465,3243v448.1" transform="translate(-942 1180)" fill="none" stroke="#5f3bbf" stroke-width="1"/>
+  </g>
+</svg>

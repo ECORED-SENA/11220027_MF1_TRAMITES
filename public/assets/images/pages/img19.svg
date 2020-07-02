@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="118" viewBox="0 0 118 118">
+  <g id="Grupo_8647" data-name="Grupo 8647" transform="translate(-396 -2820)">
+    <g id="Elipse_563" data-name="Elipse 563" transform="translate(396 2820)" fill="#f0f0f0" stroke="#3bdcf0" stroke-width="2">
+      <circle cx="59" cy="59" r="59" stroke="none"/>
+      <circle cx="59" cy="59" r="58" fill="none"/>
+    </g>
+    <g id="Grupo_8628" data-name="Grupo 8628" transform="translate(52 2552.286)">
+      <path id="Trazado_18003" data-name="Trazado 18003" d="M371,342.241V317h52.059v25.241" transform="translate(1.733 15.759)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+      <line id="Línea_53" data-name="Línea 53" x2="75.723" transform="translate(368 358)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+      <path id="Trazado_18004" data-name="Trazado 18004" d="M394.03,323.931c1.716-7.321,3.108-14.6,3.108-18.931h18.931c0,11.306,9.465,42.594,9.465,42.594v1.578" transform="translate(15.034 8.829)" fill="none" stroke="#5f3bbf" stroke-linejoin="round" stroke-width="3.4"/>
+      <path id="Trazado_18005" data-name="Trazado 18005" d="M424.215,309.1c0-5.373-.691-9.86-6.31-12.62-5.059-2.486-12.226,3.419-17.353-.97s-11.765-6.3-17.353-1.7c-3.758,3.1-10.311-1.049-14.2-4.092" transform="translate(0.577)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+      <path id="Trazado_18006" data-name="Trazado 18006" d="M384.465,327.974V298H375v29.974" transform="translate(4.043 4.786)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+      <path id="Trazado_18007" data-name="Trazado 18007" d="M390.465,322.2V308H381" transform="translate(7.508 10.561)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+      <line id="Línea_54" data-name="Línea 54" x2="6.31" transform="translate(379.043 350.112)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+      <line id="Línea_55" data-name="Línea 55" x2="6.31" transform="translate(388.508 350.112)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+      <line id="Línea_56" data-name="Línea 56" x2="6.31" transform="translate(397.974 350.112)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+      <path id="Trazado_18008" data-name="Trazado 18008" d="M394,336.465V327h7.888v9.465" transform="translate(15.016 21.535)" fill="none" stroke="#5f3bbf" stroke-miterlimit="10" stroke-width="3.4"/>
+    </g>
+  </g>
+</svg>

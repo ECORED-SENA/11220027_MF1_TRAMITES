@@ -1,0 +1,31 @@
+[
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Cámara de comercio",
+        "desciption": "Organización integrada por empresarios de una zona, cuyo objetivo es el de defender, estimular e impulsar el gremio empresarial de un país."
+      },
+      {
+        "title": "Código de comercio",
+        "desciption": "Herramienta que presenta las normas de derecho mercantil de un país."
+      },
+      {
+        "title": "Comerciante",
+        "desciption": "Persona que se dedica a negociar bienes o servicios para generar rentabilidad. "
+      }
+    ]
+  },
+  {
+    "letter": "O",
+    "terms": [
+      {
+        "title": "Objetivos",
+        "desciption": "Razón por la cual se constituye una empresa legalmente."        
+      },      {
+        "title": "Obligaciones",
+        "desciption": "Deberes que cumplen los empresarios cuando constituyen formalmente una empresa."        
+      }
+    ]
+  }  
+]

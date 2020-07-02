@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="444" viewBox="0 0 1140 444">
+  <g id="Grupo_8658" data-name="Grupo 8658" transform="translate(-390 -1036)">
+    <rect id="Rectángulo_2067" data-name="Rectángulo 2067" width="570" height="392" transform="translate(960 1088)" fill="#d9fbff"/>
+    <rect id="Rectángulo_2066" data-name="Rectángulo 2066" width="570" height="392" transform="translate(390 1088)" fill="#e2dcf4"/>
+    <path id="Rectángulo_2064" data-name="Rectángulo 2064" d="M13,0H570a0,0,0,0,1,0,0V104a0,0,0,0,1,0,0H13A13,13,0,0,1,0,91V13A13,13,0,0,1,13,0Z" transform="translate(390 1036)" fill="#5f3bbf"/>
+    <path id="Rectángulo_2065" data-name="Rectángulo 2065" d="M0,0H557a13,13,0,0,1,13,13V91a13,13,0,0,1-13,13H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(960 1036)" fill="#3bdcf0"/>
+    <text id="VENTAJAS" transform="translate(609 1097)" fill="#fff" font-size="24" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">VENTAJAS</tspan></text>
+    <text id="DESVENTAJAS" transform="translate(1160 1097)" fill="#fff" font-size="24" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">DESVENTAJAS</tspan></text>
+    <text id="La_agilidad_y_facilidad_en_los_tramites_y_documentos_necesarios_para_la_conformación_de_la_empresa." data-name="La agilidad y facilidad en los tramites y documentos necesarios para la conformación de la empresa." transform="translate(455 1194)" fill="#00223d" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="19">La agilidad y facilidad en los tramites y documentos </tspan><tspan x="0" y="49">necesarios para la conformación de la empresa.</tspan></text>
+    <text id="Se_puede_ampliar_o_reducir_su_patrimonio_fácilmente." data-name="Se puede ampliar o reducir su patrimonio fácilmente." transform="translate(455 1276)" fill="#00223d" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="19">Se puede ampliar o reducir su patrimonio fácilmente.</tspan></text>
+    <text id="No_se_exigen_tantos_documentos_contables" data-name="No se exigen tantos documentos contables" transform="translate(455 1330)" fill="#00223d" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="19">No se exigen tantos documentos contables</tspan></text>
+    <text id="Pueden_venderse_fácilmente" data-name="Pueden venderse fácilmente" transform="translate(455 1377)" fill="#00223d" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="19">Pueden venderse fácilmente</tspan></text>
+    <text id="Es_conformada_por_una_única_persona" data-name="Es conformada por una única persona" transform="translate(1032 1194)" fill="#00223d" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="19">Es conformada por una única persona</tspan></text>
+    <text id="El_capital_de_inversión_esta_limitado_solo_a_lo_que_pueda_aportar_el_dueño." data-name="El capital de inversión esta limitado solo a lo que pueda  aportar  el dueño." transform="translate(1032 1240)" fill="#00223d" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="19">El capital de inversión esta limitado solo a lo que </tspan><tspan x="0" y="49" xml:space="preserve">pueda  aportar  el dueño.</tspan></text>
+    <text id="Presenta_menos_posibilidades_de_acceso_a_créditos_y_Financiamientos" data-name="Presenta menos posibilidades de acceso a créditos y 
+Financiamientos" transform="translate(1032 1319)" fill="#00223d" font-size="18" font-family="OpenSans, Open Sans"><tspan x="0" y="19">Presenta menos posibilidades de acceso a créditos y </tspan><tspan x="0" y="49">Financiamientos</tspan></text>
+    <g id="Grupo_8565" data-name="Grupo 8565" transform="translate(482 -273)">
+      <rect id="rectangle" width="30" height="30" transform="translate(504 1466)" fill="none"/>
+      <path id="path" d="M8.6,7.75,10.35,6l7.5,7.5L10.35,21,8.6,19.25l5.75-5.75Z" transform="translate(506.15 1467.5)" fill="#002b45" fill-rule="evenodd"/>
+    </g>
+    <g id="Grupo_8566" data-name="Grupo 8566" transform="translate(482 -228)">
+      <rect id="rectangle-2" data-name="rectangle" width="30" height="30" transform="translate(504 1466)" fill="none"/>
+      <path id="path-2" data-name="path" d="M8.6,7.75,10.35,6l7.5,7.5L10.35,21,8.6,19.25l5.75-5.75Z" transform="translate(506.15 1467.5)" fill="#002b45" fill-rule="evenodd"/>
+    </g>
+    <g id="Grupo_8567" data-name="Grupo 8567" transform="translate(482 -149)">
+      <rect id="rectangle-3" data-name="rectangle" width="30" height="30" transform="translate(504 1466)" fill="none"/>
+      <path id="path-3" data-name="path" d="M8.6,7.75,10.35,6l7.5,7.5L10.35,21,8.6,19.25l5.75-5.75Z" transform="translate(506.15 1467.5)" fill="#002b45" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
