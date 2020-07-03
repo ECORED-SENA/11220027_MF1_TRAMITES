@@ -7,7 +7,7 @@
   },
   {
     "id":0,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "introduccion",
     "title": "Introducción",
     "breadcrumb": ["Inicio","introduccion"],
@@ -91,15 +91,7 @@
     "slug": "las-sociedades",
     "title": "4. Las sociedades",
     "breadcrumb": ["Inicio","las-sociedades"],
-    "path": "pages/4-tema.html",    
-    "submenu": [
-      {
-        "icon": "fa fa-file-text",
-        "slug": "las-sociedades",
-        "title": "4.1 Clasificación",
-        "anchor": "clasificacionsociedades"
-      }
-    ]   
+    "path": "pages/4-tema.html"   
   },
   {
     "id":0,
