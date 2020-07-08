@@ -1,17 +1,24 @@
 .bg-color-naranja {
-    background-color: orange;
+  background-color: orange;
 }
 
+.text-white {
+  color: white;
+}
+
+.text-title {
+  color: #5f3bbf;
+}
 
 // Estilos tema 2
 
 .custom-item-img {
-    flex: 0 0 120px;
-    overflow: hidden;
-    margin-right: 2rem;
+  flex: 0 0 120px;
+  overflow: hidden;
+  margin-right: 2rem;
 }
 
 .img-a {
-    display:block;
-    margin:auto;    
+  display: block;
+  margin: auto;
 }
