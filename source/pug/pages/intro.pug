@@ -2,27 +2,20 @@ include ../mixins/functions
 
 +pageHeader('Comerciante & Empresa', 'assets/images/header/header_media.svg')
 
-.container#introduccion
+.container#introduccion  
+    .header-ecored
+        h1.text-title Introducción               
+    
+    .card
 
-    .row-12
+        .embed-responsive.embed-responsive-16by9
+            iframe.embed-responsive-item(width='560', height='315', src='https://www.youtube.com/embed/7pWonVKZPAA', frameborder='0', allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', allowfullscreen='')
 
-        h1.text-title Introducción
+        .card-body(style="border-bottom: solid 2px #5F3BBF")
 
-        .brand-line-primary
+            .card-text
 
-
-    .row-12.my-5
-        
-        .card
-
-            .embed-responsive.embed-responsive-16by9
-                iframe.embed-responsive-item(width='560', height='315', src='https://www.youtube.com/embed/7pWonVKZPAA', frameborder='0', allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', allowfullscreen='')
-
-            .card-body(style="border-bottom: solid 2px #5F3BBF")
-
-                .card-text
-
-                    p El emprendimiento es la base para conseguir la independencia, estabilidad económica y generación de ingresos a través de la creación de empresas con diversas actividades productivas, pero estas empresas para generar una imagen corporativa formal se deben de legalizar en la cámara de comercio a través de procedimientos asesorados por la misma institución.
-                    br
-                    p Una empresa legalizada genera confianza y seguridad en sus clientes, además de permitirle crecer en el mercado con la ampliación de su plataforma estratégica y la concertación de negocios con proveedores, clientes y distribuidores de manera formal.
+                p El emprendimiento es la base para conseguir la independencia, estabilidad económica y generación de ingresos a través de la creación de empresas con diversas actividades productivas, pero estas empresas para generar una imagen corporativa formal se deben de legalizar en la cámara de comercio a través de procedimientos asesorados por la misma institución.
+                br
+                p Una empresa legalizada genera confianza y seguridad en sus clientes, además de permitirle crecer en el mercado con la ampliación de su plataforma estratégica y la concertación de negocios con proveedores, clientes y distribuidores de manera formal.
 
