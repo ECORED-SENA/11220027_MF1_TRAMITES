@@ -91,7 +91,15 @@
     "slug": "las-sociedades",
     "title": "4. Las sociedades",
     "breadcrumb": ["Inicio","las-sociedades"],
-    "path": "pages/4-tema.html"   
+    "path": "pages/4-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "las-sociedades",
+        "title": "4.1 Clasificación",
+        "anchor": "def"
+      }
+    ]   
   },
   {
     "id":0,

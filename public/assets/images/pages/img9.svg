@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="770.094" height="382.516" viewBox="0 0 770.094 382.516">
-  <g id="Grupo_8637" data-name="Grupo 8637" transform="translate(-575 -3821.484)">
+  <g id="Grupo_8636" data-name="Grupo 8636" transform="translate(-575 -3821.484)">
     <g id="Grupo_8461" data-name="Grupo 8461" transform="translate(185)">
       <g id="Trazado_17339" data-name="Trazado 17339" transform="translate(390 3821.484)" fill="#fff">
         <path d="M 769.59375 255.0156097412109 L 0.4999749958515167 255.0156097412109 L 0.4999749958515167 0.5000048875808716 L 769.59375 0.5000048875808716 L 769.59375 255.0156097412109 Z" stroke="none"/>
@@ -21,7 +21,7 @@
         <path d="M 769.59375 64.5 L 0.4999749958515167 64.5 L 0.4999749958515167 0.5 L 769.59375 0.5 L 769.59375 64.5 Z" stroke="none"/>
         <path d="M 1 1 L 1 64 L 769.09375 64 L 769.09375 1 L 1 1 M 0 0 L 770.09375 0 L 770.09375 65 L 0 65 L 0 0 Z" stroke="none" fill="#3a1b8d"/>
       </g>
-      <text id="Articulo" transform="translate(410 3860)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Articulo</tspan></text>
+      <text id="Artículo" transform="translate(410 3860)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Artículo</tspan></text>
       <text id="Descripción" transform="translate(547 3860)" fill="#fff" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Descripción</tspan></text>
       <text id="Actos_operaciones_y_empresas_mercantiles._Concepto" data-name="Actos, operaciones y empresas mercantiles. Concepto" transform="translate(547 3924)" fill="#3a1b8d" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Actos, operaciones y empresas mercantiles. Concepto</tspan></text>
       <text id="_20" data-name="20" transform="translate(432 3924)" fill="#3a1b8d" font-size="21" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">20</tspan></text>
